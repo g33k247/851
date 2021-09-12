@@ -1,0 +1,38 @@
+<fulfillmentToken fulfillmentType="loan" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:9cb786e8-586a-4950-8901-fff8d2ee6025</distributor>
+  <operatorURL>https://acs.ebookcentral.proquest.com/fulfillment</operatorURL>
+  <transaction>6002518_306818744</transaction>
+  <expiration>2021-09-26T13:59:39+00:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:e0000000-0000-0000-0000-000006002518</resource>
+    <resourceItem>0</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">LPI Linux Essentials Study Guide</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bresnahan, Christine; Blum, Richard; </dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">John Wiley &amp; Sons, Incorporated</dc:publisher>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">6002518</dc:identifier>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/epub+zip</dc:format>
+      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">en-US</dc:language>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:e0000000-0000-0000-0000-000006002518</resource>
+      <permissions>
+        <display>
+          <duration>15551999</duration>
+        </display>
+        <excerpt>
+          <duration>15551999</duration>
+          <count initial="21" max="21" incrementInterval="740571"/>
+        </excerpt>
+        <print>
+          <duration>15551999</duration>
+          <count initial="84" max="84" incrementInterval="185142"/>
+        </print>
+        <play>
+          <duration>15551999</duration>
+        </play>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>iEEyCQVBi2AfdpF+3PY7FkTjYqI=</hmac>
+</fulfillmentToken>
